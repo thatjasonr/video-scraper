@@ -4,6 +4,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 import json
+import datetime
 
 # Set up Chrome options for headless mode
 chrome_options = Options()
@@ -48,45 +49,14 @@ def fetch_all_video_data():
             except:
                 entitlement = "free"  # Default to "free" if not found
             
+            # Extract video URL
+            try:
+                parent_a_tag = video.find_element(By.XPATH, "./ancestor::a")  # Get the enclosing <a> tag
+                video_url = parent_a_tag.get_attribute("href")
+                if not video_url.startswith("http"):  # Handle relative URLs
+                    video_url = f"https://video.leedsunited.com{video_url}"
+            except:
+                video_url = "N/A"  # Default if URL is not found
+
             # Add extracted data to the list
-            video_data.append({
-                "title": title,
-                "runtime": runtime,
-                "categories": categories,
-                "image_url": image_url,
-                "entitlement": entitlement,
-            })
-
-        except Exception as e:
-            print(f"Skipped a video due to error: {e}")
-
-    return video_data
-
-def save_data_to_json(data, filename="video_data.json"):
-    """
-    Saves the extracted data to a JSON file.
-    """
-    with open(filename, "w") as file:
-        json.dump(data, file, indent=4)
-    print(f"Data saved to {filename}")
-
-# Main function to fetch data and save it
-def main():
-    data = fetch_all_video_data()
-    for video in data:
-        print(f"Title: {video['title']}")
-        print(f"Runtime: {video['runtime']}")
-        print(f"Categories: {', '.join(video['categories'])}")
-        print(f"Image URL: {video['image_url']}")
-        print(f"Entitlement: {video['entitlement']}")
-        print("-" * 40)
-    
-    # Save data to JSON
-    save_data_to_json(data)
-
-# Run the script
-if __name__ == "__main__":
-    main()
-
-    # Close the browser
-    driver.quit()
+            video
