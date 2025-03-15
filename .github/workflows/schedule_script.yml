@@ -42,4 +42,4 @@ jobs:
       - name: Send email notification
         if: env.changes_detected == 'true'
         run: |
-          echo "New video data has been added! Check out the latest changes in the repository." | mail -s "New Video Alert" your_email@example.com
+          echo "New video data has been added! Check out the latest changes in the repository." | mail -s "New Video Alert" thatjasonr@gmail.com
