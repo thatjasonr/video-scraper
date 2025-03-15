@@ -1,9 +1,9 @@
-name: Run Script Every 10 Minutes
+name: Run Script and Notify on Changes
 
 on:
+  workflow_dispatch:  # Allow manual triggering
   schedule:
-    # Runs every 10 minutes
-    - cron: "*/10 * * * *"
+    - cron: "*/10 * * * *"  # Run every 10 minutes
 
 jobs:
   run-script:
@@ -21,12 +21,25 @@ jobs:
         run: pip install selenium
 
       - name: Run the script
-        run: python fetch_videos.py
+        run: python fetch_videos.py  # Execute the Python script
 
       - name: Commit and push results
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
           git add video_data.json
-          git commit -m "Update video data"
+          git diff-index --quiet HEAD || git commit -m "Update video data"
           git push
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --name-only | grep -q "video_data.json"; then
+            echo "changes_detected=true" >> $GITHUB_ENV
+          else
+            echo "changes_detected=false" >> $GITHUB_ENV
+
+      - name: Send email notification
+        if: env.changes_detected == 'true'
+        run: |
+          echo "New video data has been added! Check out the latest changes in the repository." | mail -s "New Video Alert" your_email@example.com
