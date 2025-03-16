@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-03-16T19:16:11.446084",
+    "timestamp": "2025-03-16T20:22:35.222597",
     "videos": [
         {
             "title": "Extended Highlights: QPR 2-2 Leeds United",
@@ -8,7 +8,7 @@
                 "FIRST TEAM",
                 "MATCH ACTION"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_brcy7bdd/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "PREMIUM",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9icmN5N2JkZCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -19,7 +19,7 @@
                 "FIRST TEAM",
                 "MATCH ACTION"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_z37z61ns/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF96Mzd6NjFucyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -198,17 +198,6 @@
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF93bHRuODdwciU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
-            "title": "Highlights: Aldershot Town 1-3 Leeds United U21s",
-            "runtime": "05:20",
-            "categories": [
-                "UNDER 21\u2019S",
-                "MATCH ACTION"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9ibGRicmV3NSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
             "title": "Rhys Chadwick: I think we're dealing with the physicality very well",
             "runtime": "01:16",
             "categories": [
@@ -218,6 +207,17 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF93YjhwdTgwZyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
+            "title": "Highlights: Aldershot Town 1-3 Leeds United U21s",
+            "runtime": "05:20",
+            "categories": [
+                "UNDER 21\u2019S",
+                "MATCH ACTION"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9ibGRicmV3NSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
             "title": "Scott Gardner: It's been an excellent experience for the players",
