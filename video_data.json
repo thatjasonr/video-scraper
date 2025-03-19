@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-03-19T03:35:15.687741",
+    "timestamp": "2025-03-19T04:25:56.702609",
     "videos": [
         {
             "title": "Highlights: Sunderland U21s 3-0 Leeds United U21s",
@@ -8,7 +8,7 @@
                 "UNDER 23\u2019S",
                 "MATCH ACTION"
             ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_7nkluzbv/width/1000",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF83bmtsdXpidiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -19,7 +19,7 @@
                 "UNCUT",
                 "FIRST TEAM"
             ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_ilhjqoxr/width/1000",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9pbGhqcW94ciU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -230,17 +230,6 @@
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF93bHRuODdwciU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
-            "title": "Rhys Chadwick: I think we're dealing with the physicality very well",
-            "runtime": "01:16",
-            "categories": [
-                "UNDER 21\u2019S",
-                "INTERVIEWS"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF93YjhwdTgwZyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
             "title": "Highlights: Aldershot Town 1-3 Leeds United U21s",
             "runtime": "05:20",
             "categories": [
@@ -250,6 +239,17 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9ibGRicmV3NSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
+            "title": "Rhys Chadwick: I think we're dealing with the physicality very well",
+            "runtime": "01:16",
+            "categories": [
+                "UNDER 21\u2019S",
+                "INTERVIEWS"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF93YjhwdTgwZyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
             "title": "Scott Gardner: It's been an excellent experience for the players",
