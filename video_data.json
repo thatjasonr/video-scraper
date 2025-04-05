@@ -1,6 +1,17 @@
 {
-    "timestamp": "2025-04-05T20:21:49.182560",
+    "timestamp": "2025-04-05T21:20:33.977547",
     "videos": [
+        {
+            "title": "Extended Highlights: Luton Town 1-1 Leeds United",
+            "runtime": "10:51",
+            "categories": [
+                "FIRST TEAM",
+                "MATCH ACTION"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "PREMIUM",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9xZGJzOW4xdSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Highlights: Luton Town 1-1 Leeds United",
             "runtime": "03:06",
@@ -261,17 +272,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9lOXo2MWR2NCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Jayden Bogle: We'll take it game by game",
-            "runtime": "02:44",
-            "categories": [
-                "FIRST TEAM",
-                "INTERVIEWS"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF95YjhsNWppOCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
