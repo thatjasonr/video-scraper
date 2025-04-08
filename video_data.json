@@ -1,6 +1,28 @@
 {
-    "timestamp": "2025-04-08T21:21:03.594721",
+    "timestamp": "2025-04-08T22:21:10.009850",
     "videos": [
+        {
+            "title": "Extended Highlights: Middlesbrough 0-1 Leeds United",
+            "runtime": "11:36",
+            "categories": [
+                "FIRST TEAM",
+                "MATCH ACTION"
+            ],
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_enuij5if/width/1000",
+            "entitlement": "PREMIUM",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9lbnVpajVpZiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
+            "title": "Highlights: Middlesbrough 0-1 Leeds United",
+            "runtime": "03:21",
+            "categories": [
+                "FIRST TEAM",
+                "MATCH ACTION"
+            ],
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_i9g9fn7o/width/1000",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9pOWc5Zm43byU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Pre-Match Press Conference: Middlesbrough (A)",
             "runtime": "20:25",
@@ -20,7 +42,7 @@
                 "FIRST TEAM",
                 "MATCH ACTION"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_qdbs9n1u/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "PREMIUM",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9xZGJzOW4xdSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -251,28 +273,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF80cGcwbWVxdSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Daniel Farke: It was heartbreaking today",
-            "runtime": "04:35",
-            "categories": [
-                "FIRST TEAM",
-                "INTERVIEWS"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9xdXF6Z2VzMCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Full Match Replay: Leeds United U21s 2-2 Manchester United U21s",
-            "runtime": "01:41:01",
-            "categories": [
-                "UNDER 21\u2019S",
-                "MATCH ACTION"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9hMW83cWMwcyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
