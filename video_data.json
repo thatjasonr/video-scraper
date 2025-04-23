@@ -1,6 +1,17 @@
 {
-    "timestamp": "2025-04-23T13:33:21.716253",
+    "timestamp": "2025-04-23T14:23:56.199191",
     "videos": [
+        {
+            "title": "Uncut: Promotion Celebrations",
+            "runtime": "11:14",
+            "categories": [
+                "UNCUT",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_449ak0o1/width/1000",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF80NDlhazBvMSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Uncut: Stoke City 0-6 Leeds United",
             "runtime": "12:13",
@@ -261,17 +272,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9kY2t6YmljeCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Highlights: Leeds United Women 4-1 v Chorley Women FC",
-            "runtime": "04:40",
-            "categories": [
-                "WOMENS",
-                "MATCH ACTION"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8wNm9kY2NpaiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
