@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-04-23T14:23:56.199191",
+    "timestamp": "2025-04-23T15:25:37.077131",
     "videos": [
         {
             "title": "Uncut: Promotion Celebrations",
@@ -13,13 +13,23 @@
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF80NDlhazBvMSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
+            "title": "Promotion Live! | We are Premier League",
+            "runtime": "01:12:47",
+            "categories": [
+                "FIRST TEAM"
+            ],
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_e1ktn6dg/width/1000",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9lMWt0bjZkZyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
             "title": "Uncut: Stoke City 0-6 Leeds United",
             "runtime": "12:13",
             "categories": [
                 "UNCUT",
                 "FIRST TEAM"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_sbscj1dr/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9zYnNjajFkciU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -261,17 +271,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF92Y3BkNWY1cSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Shauna Legge: I'm over the moon",
-            "runtime": "01:37",
-            "categories": [
-                "WOMENS",
-                "INTERVIEWS"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9kY2t6YmljeCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
