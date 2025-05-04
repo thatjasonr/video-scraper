@@ -1,6 +1,18 @@
 {
-    "timestamp": "2025-05-04T13:27:49.262848",
+    "timestamp": "2025-05-04T14:19:27.294265",
     "videos": [
+        {
+            "title": "The Trophy Lift and reaction...live on LUTV!",
+            "runtime": "49:01",
+            "categories": [
+                "FIRST TEAM",
+                "FEATURES",
+                "INTERVIEWS"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF93ZjVlazRheiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Full Match Replay: Plymouth Argyle v Leeds United",
             "runtime": "01:55:58",
@@ -8,7 +20,7 @@
                 "FIRST TEAM",
                 "MATCH ACTION"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_k8jj3pyz/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "PREMIUM",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9rOGpqM3B5eiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -19,7 +31,7 @@
                 "FIRST TEAM",
                 "MATCH ACTION"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_ofsxntvf/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "PREMIUM",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9vZnN4bnR2ZiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -260,17 +272,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9jN2Q4aXQ3NSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Sarah Danby: It's been a pleasure to play alongside them all",
-            "runtime": "01:09",
-            "categories": [
-                "WOMENS",
-                "INTERVIEWS"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF96NmJsaG1mNCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
