@@ -1,6 +1,17 @@
 {
-    "timestamp": "2025-07-09T09:29:05.140840",
+    "timestamp": "2025-07-09T10:27:43.461368",
     "videos": [
+        {
+            "title": "Uncut: Gudmundsson's first day at Leeds United",
+            "runtime": "10:47",
+            "categories": [
+                "FIRST TEAM",
+                "UNCUT"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF83Znp1NTl6aiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Sam Byram: I'm over the moon",
             "runtime": "01:59",
@@ -8,20 +19,9 @@
                 "INTERVIEWS",
                 "FIRST TEAM"
             ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_0548svcz/width/1000",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8wNTQ4c3ZjeiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Uncut: Gudmundsson's first day at Leeds United",
-            "runtime": "11:15",
-            "categories": [
-                "FIRST TEAM",
-                "UNCUT"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF93d3JtbTQ2YyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
             "title": "Gabriel Gudmundsson: It's a dream for me",
