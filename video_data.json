@@ -1,6 +1,17 @@
 {
-    "timestamp": "2025-08-17T14:21:04.544042",
+    "timestamp": "2025-08-17T15:22:55.921538",
     "videos": [
+        {
+            "title": "Uncut: Dominic Calvert-Lewin signs!",
+            "runtime": "19:21",
+            "categories": [
+                "FIRST TEAM",
+                "UNCUT"
+            ],
+            "image_url": "https://thumbnails.vod.streamamg.com/eyJ0ZW5hbnRJZCI6IjhlMTE4MjYxLWQ2MjUtMTFlZS04ZmI4LTA2YzllZGMwYjFmOSIsImZpbGVuYW1lIjoiRENMIFVOQ1VULjAwXzEwXzIzXzA5LlN0aWxsMDAzLmpwZyIsInZpZGVvSWQiOiJiZjhkMTlkOS05NTMwLTQ2YjQtYThiYS04N2NkODk1ZjA2NmIifQ==/width/1000",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9iNzkwMWEzcSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Highlights: Aston Villa U21s 0-3 Leeds United U21s ",
             "runtime": "03:43",
@@ -263,17 +274,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9xZjJvbWx2aSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Inside Training: Training Camp Day Five",
-            "runtime": "01:11",
-            "categories": [
-                "INSIDE TRAINING",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9wd3M2eG5jZCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
