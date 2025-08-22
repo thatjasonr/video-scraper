@@ -1,6 +1,17 @@
 {
-    "timestamp": "2025-08-22T15:24:18.089002",
+    "timestamp": "2025-08-22T16:28:38.938108",
     "videos": [
+        {
+            "title": "Inside Training: Arsenal (A)",
+            "runtime": "11:41",
+            "categories": [
+                "INSIDE TRAINING",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://thumbnails.vod.streamamg.com/eyJ0ZW5hbnRJZCI6IjhlMTE4MjYxLWQ2MjUtMTFlZS04ZmI4LTA2YzllZGMwYjFmOSIsImZpbGVuYW1lIjoiV2hhdHNBcHAgSW1hZ2UgMjAyNS0wOC0yMiBhdCAxNy4wNy41OC5qcGVnIiwidmlkZW9JZCI6ImFkNjBmNzM0LTQwYjctNDE0YS1hNmNmLWNiMmUyYTlmMWQ3NSJ9/width/1000",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8xbTlsY3IxNSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Pre Match Press Conference: Arsenal (A)",
             "runtime": "24:09",
@@ -8,20 +19,9 @@
                 "PRESS CONFERENCE",
                 "FIRST TEAM"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_whsxtgzv/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF93aHN4dGd6diU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Uncut: Noah Okafor signs!",
-            "runtime": "13:05",
-            "categories": [
-                "FIRST TEAM",
-                "UNCUT"
-            ],
-            "image_url": "https://thumbnails.vod.streamamg.com/eyJ0ZW5hbnRJZCI6IjhlMTE4MjYxLWQ2MjUtMTFlZS04ZmI4LTA2YzllZGMwYjFmOSIsImZpbGVuYW1lIjoiV2hhdHNBcHAgSW1hZ2UgMjAyNS0wOC0yMCBhdCAyMi4yOS40My5qcGVnIiwidmlkZW9JZCI6IjQyMzUzYTQ5LWEyZjgtNDUzZS1iMDVlLTgyMzYzOWZiMjI5MyJ9/width/1000",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF95OHI1cDN0dSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
             "title": "Noah Okafor: I can't wait to get started",
