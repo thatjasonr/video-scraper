@@ -1,6 +1,17 @@
 {
-    "timestamp": "2025-08-23T18:30:08.517184",
+    "timestamp": "2025-08-23T19:17:05.171182",
     "videos": [
+        {
+            "title": "Pascal Struijk: We can't dwell on this",
+            "runtime": "01:30",
+            "categories": [
+                "INTERVIEWS",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_w4frv1ga/width/1000",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF93NGZydjFnYSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Inside Training: Arsenal (A)",
             "runtime": "11:41",
@@ -8,7 +19,7 @@
                 "INSIDE TRAINING",
                 "FIRST TEAM"
             ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "image_url": "https://thumbnails.vod.streamamg.com/eyJ0ZW5hbnRJZCI6IjhlMTE4MjYxLWQ2MjUtMTFlZS04ZmI4LTA2YzllZGMwYjFmOSIsImZpbGVuYW1lIjoiV2hhdHNBcHAgSW1hZ2UgMjAyNS0wOC0yMiBhdCAxNy4wNy41OC5qcGVnIiwidmlkZW9JZCI6ImFkNjBmNzM0LTQwYjctNDE0YS1hNmNmLWNiMmUyYTlmMWQ3NSJ9/width/1000",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8xbTlsY3IxNSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -19,7 +30,7 @@
                 "PRESS CONFERENCE",
                 "FIRST TEAM"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_whsxtgzv/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF93aHN4dGd6diU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -263,16 +274,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF91eWs4aXVjdiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Welcome Dominic Calvert-Lewin!",
-            "runtime": "00:20",
-            "categories": [
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF82ZjF0eGM1cSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
