@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-11-02T22:20:14.143732",
+    "timestamp": "2025-11-02T23:20:32.374265",
     "videos": [
         {
             "title": "Highlights: Leeds United U21s v Brighton & Hove Albion U21s",
@@ -13,26 +13,37 @@
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9ubTZrcm40MSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
+            "title": "Scott Gardner: I thought we were pretty dominant in every aspect",
+            "runtime": "01:12",
+            "categories": [
+                "INTERVIEWS",
+                "UNDER 21\u2019S"
+            ],
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_8aspvud8/width/1000",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF84YXNwdnVkOCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
+            "title": "Sam Chambers: At the end of the day, we're happy with a point",
+            "runtime": "00:53",
+            "categories": [
+                "INTERVIEWS",
+                "UNDER 21\u2019S"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8ya3dlcmZheiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
             "title": "Highlights: Durham Cestria v Leeds United Women",
             "runtime": "03:05",
             "categories": [
                 "MATCH ACTION",
                 "WOMENS"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_ms685l7p/width/1000",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9tczY4NWw3cCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Simon Wood: It feels good to get the victory",
-            "runtime": "03:08",
-            "categories": [
-                "INTERVIEWS",
-                "WOMENS"
-            ],
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8zaTAzZDBiZSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9tczY4NWw3cCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
             "title": "Shauna Legge: We can grind results out",
@@ -44,6 +55,17 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9vdGZtcGFkaSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
+            "title": "Simon Wood: It feels good to get the victory",
+            "runtime": "03:08",
+            "categories": [
+                "INTERVIEWS",
+                "WOMENS"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8zaTAzZDBiZSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
             "title": "Extended Highlights: Brighton & Hove Albion v Leeds United",
@@ -254,29 +276,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "PREMIUM",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF90ZGQxajB3dCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Extra Time: Leeds United v West Ham United",
-            "runtime": "11:05",
-            "categories": [
-                "MATCH ACTION",
-                "FEATURES",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF90bnlqNnBhYSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Daniel Farke: It was a priceless three points",
-            "runtime": "04:00",
-            "categories": [
-                "INTERVIEWS",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9oODkxcGNsZyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
