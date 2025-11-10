@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-11-10T09:29:15.826840",
+    "timestamp": "2025-11-10T10:28:26.989704",
     "videos": [
         {
             "title": "Extended Highlights: Nottingham Forest v Leeds United ",
@@ -8,7 +8,7 @@
                 "MATCH ACTION",
                 "FIRST TEAM"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_0a5ojnmx/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "PREMIUM",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8wYTVvam5teCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -19,9 +19,20 @@
                 "MATCH ACTION",
                 "FIRST TEAM"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_oq50z9zu/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9vcTUwejl6dSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
+            "title": "Full Match Replay: Nottingham Forest v Leeds United",
+            "runtime": "01:51:51",
+            "categories": [
+                "MATCH ACTION",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "PREMIUM",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8zdXR4OHIxMyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
             "title": "Daniel Farke: We have to be clinical",
@@ -265,17 +276,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF83aDFhMzl6bSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Full Match Replay: Leeds United Women v Doncaster Rovers Belles ",
-            "runtime": "01:45:12",
-            "categories": [
-                "MATCH ACTION",
-                "WOMENS"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9yNDEwZDNhOSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
