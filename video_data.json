@@ -1,6 +1,17 @@
 {
-    "timestamp": "2025-11-24T09:30:49.559499",
+    "timestamp": "2025-11-24T10:28:56.283188",
     "videos": [
+        {
+            "title": "Highlights: Huddersfield Town Women 1-3 Leeds United Women",
+            "runtime": "03:56",
+            "categories": [
+                "MATCH ACTION",
+                "WOMENS"
+            ],
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_am8j4mtj/width/1000",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9hbThqNG10aiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Full Match Replay: Leeds United v Aston Villa",
             "runtime": "01:50:35",
@@ -19,7 +30,7 @@
                 "MATCH ACTION",
                 "FIRST TEAM"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_ca4ta91g/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "PREMIUM",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9jYTR0YTkxZyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -264,17 +275,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF85Z3VuY2xlbyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Full Match Replay: Durham Cestria v Leeds United Women",
-            "runtime": "01:36:27",
-            "categories": [
-                "MATCH ACTION",
-                "WOMENS"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9qZDl4dDZwdyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
