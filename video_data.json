@@ -1,14 +1,15 @@
 {
-    "timestamp": "2025-11-27T14:24:55.418392",
+    "timestamp": "2025-11-27T15:26:08.313137",
     "videos": [
         {
             "title": "Full Match Replay: Gateshead FC v Leeds United U21s",
             "runtime": "01:35:31",
             "categories": [
+                "ACADEMY",
                 "MATCH ACTION",
                 "UNDER 21\u2019S"
             ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_v0evspad/width/1000",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF92MGV2c3BhZCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -16,10 +17,11 @@
             "title": "Highlights: Gateshead FC v Leeds United U21s",
             "runtime": "04:33",
             "categories": [
+                "ACADEMY",
                 "MATCH ACTION",
                 "UNDER 21\u2019S"
             ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_ftn1lyt9/width/1000",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9mdG4xbHl0OSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -159,6 +161,7 @@
             "title": "Full Match Replay: Accrington Stanley v Leeds United U21s",
             "runtime": "01:40:20",
             "categories": [
+                "ACADEMY",
                 "MATCH ACTION",
                 "UNDER 21\u2019S"
             ],
@@ -170,6 +173,7 @@
             "title": "Highlights: Accrington Stanley v Leeds United",
             "runtime": "03:19",
             "categories": [
+                "ACADEMY",
                 "MATCH ACTION",
                 "UNDER 21\u2019S"
             ],
