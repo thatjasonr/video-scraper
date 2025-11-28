@@ -1,6 +1,28 @@
 {
-    "timestamp": "2025-11-28T10:27:01.260981",
+    "timestamp": "2025-11-28T11:21:14.504037",
     "videos": [
+        {
+            "title": "Inside Training: Manchester City (A)",
+            "runtime": "09:53",
+            "categories": [
+                "INSIDE TRAINING",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9jdm50anM1NyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
+            "title": "Pre Match Press Conference: Manchester City (A)",
+            "runtime": "36:36",
+            "categories": [
+                "PRESS CONFERENCE",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF91MjVweWQ3bCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Full Match Replay: Gateshead FC v Leeds United U21s",
             "runtime": "01:35:31",
@@ -21,7 +43,7 @@
                 "MATCH ACTION",
                 "UNDER 21\u2019S"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_ftn1lyt9/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9mdG4xbHl0OSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -257,29 +279,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9lNjh0OTc4eSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Ethan Ampadu: We'll regroup and go again",
-            "runtime": "02:04",
-            "categories": [
-                "INTERVIEWS",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9xbGwxZXllcyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Highlights: Leeds United U21s 1-2 Nottingham Forest U21s",
-            "runtime": "03:21",
-            "categories": [
-                "ACADEMY",
-                "MATCH ACTION",
-                "UNDER 21\u2019S"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9wZXN6a3lvaCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
