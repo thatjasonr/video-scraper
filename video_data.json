@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-05T23:23:16.101954",
+    "timestamp": "2025-12-06T01:53:17.169432",
     "videos": [
         {
             "title": "All the Angles: Chelsea (H)",
@@ -8,7 +8,7 @@
                 "MATCH ACTION",
                 "FIRST TEAM"
             ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_y10ejkgw/width/1000",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF95MTBlamtndyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -19,7 +19,7 @@
                 "PRESS CONFERENCE",
                 "FIRST TEAM"
             ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_ti1vud6f/width/1000",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF90aTF2dWQ2ZiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -69,17 +69,6 @@
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9jejBwbTVxaiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
-            "title": "Daniel Farke: It was a magic night at Elland Road",
-            "runtime": "04:46",
-            "categories": [
-                "INTERVIEWS",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF82eTg2ZWZlNyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
             "title": "Jaka Bijol: It\u2019s been an incredible night for us",
             "runtime": "05:09",
             "categories": [
@@ -89,6 +78,17 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9udHRoejl1NyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
+            "title": "Daniel Farke: It was a magic night at Elland Road",
+            "runtime": "04:46",
+            "categories": [
+                "INTERVIEWS",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF82eTg2ZWZlNyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
             "title": "Pre Match Press Conference: Chelsea (H)",
