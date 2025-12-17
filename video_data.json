@@ -1,6 +1,17 @@
 {
-    "timestamp": "2025-12-17T09:33:16.726599",
+    "timestamp": "2025-12-17T10:30:08.594063",
     "videos": [
+        {
+            "title": "Full Match Replay: Leeds United U21s v Borussia Dortmund II",
+            "runtime": "01:42:54",
+            "categories": [
+                "MATCH ACTION",
+                "UNDER 21\u2019S"
+            ],
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_a0otwqc4/width/1000",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9hMG90d3FjNCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Highlights: Leeds United U21s v Borussia Dortmund II",
             "runtime": "03:55",
@@ -19,7 +30,7 @@
                 "FIRST TEAM",
                 "UNCUT"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_fl8cmebg/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9mbDhjbWViZyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -258,17 +269,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF92dTl5NjR5ciU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Simon Wood: This group are in it together",
-            "runtime": "03:07",
-            "categories": [
-                "INTERVIEWS",
-                "WOMENS"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF93eWJxeGN2NyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
