@@ -1,6 +1,17 @@
 {
-    "timestamp": "2025-12-18T15:28:53.412382",
+    "timestamp": "2025-12-18T16:36:43.848106",
     "videos": [
+        {
+            "title": "Pre Match Press Conference: Crystal Palace (H)",
+            "runtime": "23:31",
+            "categories": [
+                "PRESS CONFERENCE",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF82aGF6NDZmaiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Full Match Replay: Leeds United U21s v Borussia Dortmund II",
             "runtime": "01:42:54",
@@ -19,7 +30,7 @@
                 "MATCH ACTION",
                 "UNDER 21\u2019S"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_dcduvnid/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9kY2R1dm5pZCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -258,17 +269,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9yOHd5MzA1ayU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Highlights: Norton & Stockton Ancients Ladies 2-3 Leeds United Women",
-            "runtime": "03:15",
-            "categories": [
-                "MATCH ACTION",
-                "WOMENS"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF92dTl5NjR5ciU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
