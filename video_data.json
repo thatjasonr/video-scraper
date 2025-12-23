@@ -1,6 +1,16 @@
 {
-    "timestamp": "2025-12-23T11:24:01.347372",
+    "timestamp": "2025-12-23T12:55:05.802376",
     "videos": [
+        {
+            "title": "Squad visit Leeds Children's Hospital to spread festive joy",
+            "runtime": "03:30",
+            "categories": [
+                "FIRST TEAM"
+            ],
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_ojz2kv5p/width/1000",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9vanoya3Y1cCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Uncut: Leeds United v Crystal Palace",
             "runtime": "10:18",
@@ -9,7 +19,7 @@
                 "FIRST TEAM",
                 "UNCUT"
             ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_zr7wsl6z/width/1000",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF96cjd3c2w2eiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -259,17 +269,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF93YWh0bThhbyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Jack Harrison visits Yorkshire Cancer Research",
-            "runtime": "02:15",
-            "categories": [
-                "FOUNDATION",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF80bGwwc29vaSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
