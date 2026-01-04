@@ -1,6 +1,17 @@
 {
-    "timestamp": "2026-01-04T15:24:37.852732",
+    "timestamp": "2026-01-04T16:30:57.503401",
     "videos": [
+        {
+            "title": "Highlights: Leeds United v Manchester United",
+            "runtime": "02:49",
+            "categories": [
+                "MATCH ACTION",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_iecf6h1b/width/1000",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9pZWNmNmgxYiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Jaka Bijol: We take it and move forward",
             "runtime": "02:00",
@@ -8,7 +19,7 @@
                 "INTERVIEWS",
                 "FIRST TEAM"
             ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_6colf6l2/width/1000",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF82Y29sZjZsMiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -19,7 +30,7 @@
                 "INTERVIEWS",
                 "FIRST TEAM"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_vbyewdgt/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF92Ynlld2RndCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -265,17 +276,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9jZW10dzIyYyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Full Match Replay: Leeds United v Crystal Palace ",
-            "runtime": "01:54:29",
-            "categories": [
-                "MATCH ACTION",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "PREMIUM",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF93ZWx5ZTd3aiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
