@@ -1,6 +1,14 @@
 {
-    "timestamp": "2026-01-12T15:31:54.343930",
+    "timestamp": "2026-01-12T16:33:51.755812",
     "videos": [
+        {
+            "title": "Extended Highlights: Derby County v Leeds United",
+            "runtime": "09:24",
+            "categories": [],
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_14b9cryc/width/1000",
+            "entitlement": "PREMIUM",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8xNGI5Y3J5YyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Extra Time: Derby County v Leeds United ",
             "runtime": "10:14",
@@ -9,7 +17,7 @@
                 "FEATURES",
                 "FIRST TEAM"
             ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_0yfpzce8/width/1000",
             "entitlement": "PREMIUM",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8weWZwemNlOCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -20,7 +28,7 @@
                 "MATCH ACTION",
                 "FIRST TEAM"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_4z6ai0as/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "PREMIUM",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF80ejZhaTBhcyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -266,17 +274,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "PREMIUM",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9mdjV1dTB1ZyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Highlights: Leeds United v Manchester United",
-            "runtime": "02:49",
-            "categories": [
-                "MATCH ACTION",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9pZWNmNmgxYiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
