@@ -1,6 +1,17 @@
 {
-    "timestamp": "2026-02-13T14:47:19.781833",
+    "timestamp": "2026-02-13T15:49:45.116947",
     "videos": [
+        {
+            "title": "Pre-Match Press Conference: Birmingham City (A)",
+            "runtime": "19:08",
+            "categories": [
+                "PRESS CONFERENCE",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_1j74ihqo/width/1000",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8xajc0aWhxbyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Uncut: Chelsea (A)",
             "runtime": "07:51",
@@ -8,7 +19,7 @@
                 "MATCH ACTION",
                 "FIRST TEAM"
             ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_k51670lm/width/1000",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9rNTE2NzBsbSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -19,7 +30,7 @@
                 "MATCH ACTION",
                 "FIRST TEAM"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_fqlabsbp/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9mcWxhYnNicCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -267,18 +278,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9xd3ZydHJsaSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Full Match Replay: Leeds United U21s v Arsenal U21s",
-            "runtime": "01:40:38",
-            "categories": [
-                "ACADEMY",
-                "MATCH ACTION",
-                "UNDER 21\u2019S"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "PREMIUM",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9xcGFkNWZ2MCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
