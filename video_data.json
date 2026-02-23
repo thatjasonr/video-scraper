@@ -1,6 +1,18 @@
 {
-    "timestamp": "2026-02-23T17:04:27.692122",
+    "timestamp": "2026-02-23T19:11:28.537901",
     "videos": [
+        {
+            "title": "The Official Leeds United Podcast returns...with Ethan Ampadu",
+            "runtime": "01:40",
+            "categories": [
+                "INTERVIEWS",
+                "FEATURES",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_f4zgxorr/width/1000",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9mNHpneG9yciU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "All the Angles: Aston Villa (A)",
             "runtime": "01:24",
@@ -265,18 +277,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9mcWxhYnNicCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Extra Time: Chelsea (A)",
-            "runtime": "16:09",
-            "categories": [
-                "MATCH ACTION",
-                "FEATURES",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "PREMIUM",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF82NzR2ZHhhdCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
