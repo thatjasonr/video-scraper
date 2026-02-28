@@ -1,6 +1,39 @@
 {
-    "timestamp": "2026-02-28T20:32:13.629327",
+    "timestamp": "2026-02-28T21:26:44.275628",
     "videos": [
+        {
+            "title": "Highlights: Leeds United v Manchester City",
+            "runtime": "03:21",
+            "categories": [
+                "MATCH ACTION",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_9zkw4nrk/width/1000",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF85emt3NG5yayU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
+            "title": "Edmund Riemer: Proud of the performance",
+            "runtime": "00:00",
+            "categories": [
+                "INTERVIEWS",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_7ot30u8a/width/1000",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF83b3QzMHU4YSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
+            "title": "Ilia Gruev: We deserved more",
+            "runtime": "02:20",
+            "categories": [
+                "INTERVIEWS",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9teGhvcDZhdiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Scott Gardner: We can learn some lessons",
             "runtime": "01:14",
@@ -8,7 +41,7 @@
                 "INTERVIEWS",
                 "UNDER 21\u2019S"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_ru2qzn4r/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9ydTJxem40ciU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -19,7 +52,7 @@
                 "MATCH ACTION",
                 "UNDER 21\u2019S"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_pqquscq7/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "PREMIUM",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9wcXF1c2NxNyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -245,39 +278,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF83dDVjd3BsMyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Full Match Replay: Birmingham City v Leeds United",
-            "runtime": "02:31:09",
-            "categories": [
-                "MATCH ACTION",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "PREMIUM",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9mcHJycDg5bSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Extended Highlights: Birmingham City v Leeds United ",
-            "runtime": "12:13",
-            "categories": [
-                "MATCH ACTION",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "PREMIUM",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF82dTZ0ZmN6ZSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Highlights: Birmingham City v Leeds United ",
-            "runtime": "03:46",
-            "categories": [
-                "MATCH ACTION",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8wOXhseDYyaiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
