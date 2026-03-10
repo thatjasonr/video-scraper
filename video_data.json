@@ -1,6 +1,18 @@
 {
-    "timestamp": "2026-03-10T04:45:46.377888",
+    "timestamp": "2026-03-10T05:50:45.405655",
     "videos": [
+        {
+            "title": "The Official Leeds United Podcast: Joe Rodon",
+            "runtime": "52:04",
+            "categories": [
+                "INTERVIEWS",
+                "FEATURES",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://thumbnails.vod.streamamg.com/eyJ0ZW5hbnRJZCI6IjhlMTE4MjYxLWQ2MjUtMTFlZS04ZmI4LTA2YzllZGMwYjFmOSIsImZpbGVuYW1lIjoiUk9ET04gUE9EIFRIVU1CIDEuanBnIiwidmlkZW9JZCI6IjdhYmIxNDU0LTc0YmMtNGNlZi1hMGFmLTFiZDJhMDBhNTE2ZCJ9/width/1000",
+            "entitlement": "PREMIUM",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF83NHE5azM0NyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Full Match Replay: Sunderland U21s v Leeds United U21s",
             "runtime": "01:39:18",
@@ -8,7 +20,7 @@
                 "MATCH ACTION",
                 "UNDER 21\u2019S"
             ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_imgk5rfs/width/1000",
             "entitlement": "PREMIUM",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9pbWdrNXJmcyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -264,17 +276,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8zYmVwaTN5aSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Full Match Replay: Leeds United Women 3-2 Chester-le-Street Town Ladies",
-            "runtime": "01:44:59",
-            "categories": [
-                "MATCH ACTION",
-                "WOMENS"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF85NThtdnAzNyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
