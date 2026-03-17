@@ -1,6 +1,17 @@
 {
-    "timestamp": "2026-03-17T04:56:35.130879",
+    "timestamp": "2026-03-17T06:04:09.528503",
     "videos": [
+        {
+            "title": "The Official Leeds United Podcast: Brenden Aaronson",
+            "runtime": "57:00",
+            "categories": [
+                "INTERVIEWS",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "PREMIUM",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9nZ3N5bXIyeCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Highlights: Leeds United U21s v Tottenham U21s",
             "runtime": "04:34",
@@ -13,17 +24,6 @@
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9rbGVwcWhxOSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
-            "title": "Scott Gardner: We showed a lot of character",
-            "runtime": "01:08",
-            "categories": [
-                "INTERVIEWS",
-                "UNDER 21\u2019S"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF82bWQ4dWlyZiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
             "title": "Robbie Cook: I was really buzzing with the result and clean sheet",
             "runtime": "01:09",
             "categories": [
@@ -33,6 +33,17 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF90c3Z0bmgwZiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
+            "title": "Scott Gardner: We showed a lot of character",
+            "runtime": "01:08",
+            "categories": [
+                "INTERVIEWS",
+                "UNDER 21\u2019S"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF82bWQ4dWlyZiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
             "title": "Brenden Aaronson joins the Official Leeds United Podcast!",
@@ -265,17 +276,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF90M3Bxb2t5ciU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Extra Time: Leeds United v Norwich City ",
-            "runtime": "12:39",
-            "categories": [
-                "MATCH ACTION",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "PREMIUM",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF81MWNianVibiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
