@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-17T09:00:52.757745",
+    "timestamp": "2026-03-17T10:55:21.963224",
     "videos": [
         {
             "title": "The Official Leeds United Podcast: Brenden Aaronson",
@@ -8,9 +8,20 @@
                 "INTERVIEWS",
                 "FIRST TEAM"
             ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "image_url": "https://thumbnails.vod.streamamg.com/eyJ0ZW5hbnRJZCI6IjhlMTE4MjYxLWQ2MjUtMTFlZS04ZmI4LTA2YzllZGMwYjFmOSIsImZpbGVuYW1lIjoiQUFST05TT04gUE9EIFRIVU1CIDEuanBnIiwidmlkZW9JZCI6ImM3MmM3NzZiLTU5MTktNDVmZi1iM2RhLWQyYWQ3Y2MxNGNkNiJ9/width/1000",
             "entitlement": "PREMIUM",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9nZ3N5bXIyeCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
+            "title": "Full Match Replay: Leeds United U21s v Tottenham U21s",
+            "runtime": "01:40:52",
+            "categories": [
+                "MATCH ACTION",
+                "UNDER 21\u2019S"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "PREMIUM",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF83cWx2aXl1dSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
             "title": "Highlights: Leeds United U21s v Tottenham U21s",
@@ -24,17 +35,6 @@
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9rbGVwcWhxOSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
-            "title": "Robbie Cook: I was really buzzing with the result and clean sheet",
-            "runtime": "01:09",
-            "categories": [
-                "INTERVIEWS",
-                "UNDER 21\u2019S"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF90c3Z0bmgwZiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
             "title": "Scott Gardner: We showed a lot of character",
             "runtime": "01:08",
             "categories": [
@@ -44,6 +44,17 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF82bWQ4dWlyZiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
+            "title": "Robbie Cook: I was really buzzing with the result and clean sheet",
+            "runtime": "01:09",
+            "categories": [
+                "INTERVIEWS",
+                "UNDER 21\u2019S"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF90c3Z0bmgwZiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
             "title": "Brenden Aaronson joins the Official Leeds United Podcast!",
@@ -265,17 +276,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8xbmJ5bG1wZiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "All the Angles: Norwich City (H)",
-            "runtime": "04:03",
-            "categories": [
-                "MATCH ACTION",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF90M3Bxb2t5ciU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
