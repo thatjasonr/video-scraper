@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-19T22:34:33.744252",
+    "timestamp": "2026-03-19T23:35:19.946031",
     "videos": [
         {
             "title": "Pre Match Press Conference: Brentford (H)",
@@ -19,7 +19,7 @@
                 "MATCH ACTION",
                 "WOMENS"
             ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_6qyw6zel/width/1000",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF82cXl3NnplbCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -79,17 +79,6 @@
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9rbGVwcWhxOSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
-            "title": "Scott Gardner: We showed a lot of character",
-            "runtime": "01:08",
-            "categories": [
-                "INTERVIEWS",
-                "UNDER 21\u2019S"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF82bWQ4dWlyZiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
             "title": "Robbie Cook: I was really buzzing with the result and clean sheet",
             "runtime": "01:09",
             "categories": [
@@ -99,6 +88,17 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF90c3Z0bmgwZiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
+            "title": "Scott Gardner: We showed a lot of character",
+            "runtime": "01:08",
+            "categories": [
+                "INTERVIEWS",
+                "UNDER 21\u2019S"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF82bWQ4dWlyZiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
             "title": "Brenden Aaronson joins the Official Leeds United Podcast!",
