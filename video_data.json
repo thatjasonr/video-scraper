@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-06T22:41:58.079836",
+    "timestamp": "2026-04-06T23:41:28.644006",
     "videos": [
         {
             "title": "James Justin joins the Podcast this week!",
@@ -8,7 +8,7 @@
                 "FEATURES",
                 "FIRST TEAM"
             ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_okuby8po/width/1000",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9va3VieThwbyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -54,17 +54,6 @@
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9hMzJkZXA4cyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
-            "title": "Daniel Farke: It's a great day for the club",
-            "runtime": "04:51",
-            "categories": [
-                "INTERVIEWS",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9odmV2ajM4YiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
             "title": "Lucas Perri: It\u2019s the magic of the cup",
             "runtime": "02:36",
             "categories": [
@@ -74,6 +63,17 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF80aTMwb290bCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
+            "title": "Daniel Farke: It's a great day for the club",
+            "runtime": "04:51",
+            "categories": [
+                "INTERVIEWS",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9odmV2ajM4YiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
             "title": "Drew Greene: We are happy with the three points",
@@ -109,17 +109,6 @@
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8zc2hmYmgxcyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
-            "title": "Highlights: Leeds United U21s v Manchester United U21s",
-            "runtime": "04:00",
-            "categories": [
-                "MATCH ACTION",
-                "UNDER 21\u2019S"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "PREMIUM",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9vM2RsaXRyMSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
             "title": "Scott Gardner: I thought the performance was excellent",
             "runtime": "01:45",
             "categories": [
@@ -129,6 +118,17 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8wczF1bWlyZyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
+            "title": "Highlights: Leeds United U21s v Manchester United U21s",
+            "runtime": "04:00",
+            "categories": [
+                "MATCH ACTION",
+                "UNDER 21\u2019S"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "PREMIUM",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9vM2RsaXRyMSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
             "title": "Alex Cairns: I thought all over the pitch we played the better football",
