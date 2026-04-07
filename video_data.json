@@ -1,6 +1,18 @@
 {
-    "timestamp": "2026-04-07T05:14:57.800239",
+    "timestamp": "2026-04-07T07:26:21.194650",
     "videos": [
+        {
+            "title": "The Official Leeds United Podcast: James Justin",
+            "runtime": "59:53",
+            "categories": [
+                "INTERVIEWS",
+                "FEATURES",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://thumbnails.vod.streamamg.com/eyJ0ZW5hbnRJZCI6IjhlMTE4MjYxLWQ2MjUtMTFlZS04ZmI4LTA2YzllZGMwYjFmOSIsImZpbGVuYW1lIjoiSlVTVElOIFBPRCBUSFVNQiAxLmpwZyIsInZpZGVvSWQiOiIzNDQ1OWNlZi1iZGI5LTQwOTMtYmE2ZS1iZDg3MmYwNGI1ZGQifQ==/width/1000",
+            "entitlement": "PREMIUM",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF92MXozeHRzYyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "James Justin joins the Podcast this week!",
             "runtime": "01:22",
@@ -8,7 +20,7 @@
                 "FEATURES",
                 "FIRST TEAM"
             ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_okuby8po/width/1000",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9va3VieThwbyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -262,17 +274,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8xbDhwanR3NSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Uncut: Brentford (H)",
-            "runtime": "16:42",
-            "categories": [
-                "FIRST TEAM",
-                "UNCUT"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF94eTZqYWl3aiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
