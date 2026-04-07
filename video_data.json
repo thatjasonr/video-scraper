@@ -1,6 +1,28 @@
 {
-    "timestamp": "2026-04-07T13:42:08.041670",
+    "timestamp": "2026-04-07T15:14:49.789725",
     "videos": [
+        {
+            "title": "Highlights: Leeds United Women v Wythenshawe FC Women",
+            "runtime": "03:37",
+            "categories": [
+                "MATCH ACTION",
+                "WOMENS"
+            ],
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_jtvpcoon/width/1000",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9qdHZwY29vbiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
+            "title": "Full Match Replay: Leeds United Women v Wythenshawe FC Women",
+            "runtime": "01:40:42",
+            "categories": [
+                "MATCH ACTION",
+                "WOMENS"
+            ],
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_fstnhvms/width/1000",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9mc3RuaHZtcyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "The Official Leeds United Podcast: James Justin",
             "runtime": "59:53",
@@ -9,7 +31,7 @@
                 "FEATURES",
                 "FIRST TEAM"
             ],
-            "image_url": "https://thumbnails.vod.streamamg.com/eyJ0ZW5hbnRJZCI6IjhlMTE4MjYxLWQ2MjUtMTFlZS04ZmI4LTA2YzllZGMwYjFmOSIsImZpbGVuYW1lIjoiSlVTVElOIFBPRCBUSFVNQiAxLmpwZyIsInZpZGVvSWQiOiIzNDQ1OWNlZi1iZGI5LTQwOTMtYmE2ZS1iZDg3MmYwNGI1ZGQifQ==/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "PREMIUM",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF92MXozeHRzYyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -20,7 +42,7 @@
                 "FEATURES",
                 "FIRST TEAM"
             ],
-            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_okuby8po/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9va3VieThwbyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -255,28 +277,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF91NXNjOHpuMiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "The Official Leeds United Podcast: Pascal Struijk",
-            "runtime": "48:02",
-            "categories": [
-                "FEATURES",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF95Z2VjZDZ6MyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Pascal joins the Podcast!",
-            "runtime": "01:19",
-            "categories": [
-                "INTERVIEWS",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8xbDhwanR3NSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
