@@ -1,6 +1,17 @@
 {
-    "timestamp": "2026-04-24T15:12:32.476969",
+    "timestamp": "2026-04-24T17:03:22.572707",
     "videos": [
+        {
+            "title": "Leeds United's Road to Wembley with James Justin, Jayden Bogle, and Willy Gnonto",
+            "runtime": "17:03",
+            "categories": [
+                "INTERVIEWS",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://open.http.mp.streamamg.com/p/3000582/sp/300058200/thumbnail/entry_id/0_6xxtb7xg/width/1000",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF82eHh0Yjd4ZyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Vault: The 1970 FA Cup Final ",
             "runtime": "18:30",
@@ -19,7 +30,7 @@
                 "INTERVIEWS",
                 "HISTORY"
             ],
-            "image_url": "https://thumbnails.vod.streamamg.com/eyJ0ZW5hbnRJZCI6IjhlMTE4MjYxLWQ2MjUtMTFlZS04ZmI4LTA2YzllZGMwYjFmOSIsImZpbGVuYW1lIjoiMF93bHFxd3Fiei5qcGciLCJ2aWRlb0lkIjoiYzM2MGZlNDctN2Y4ZC00ZWIzLWE0YTktYTdmNTI4ZTAwZGIyIn0=/width/1000",
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9td2NsZnR1ZSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
@@ -44,17 +55,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8wMWJtcWt0ZCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "Leeds United's Road to Wembley with James Justin, Jayden Bogle, and Willy Gnonto",
-            "runtime": "17:03",
-            "categories": [
-                "INTERVIEWS",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF82eHh0Yjd4ZyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
             "title": "All the Angles: Bournemouth (A)",
@@ -101,17 +101,6 @@
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9tZDd5a3k2bSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
-            "title": "Full Match Replay: AFC Bournemouth v Leeds United",
-            "runtime": "01:49:46",
-            "categories": [
-                "MATCH ACTION",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "PREMIUM",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9hdzV6cXhseiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
             "title": "Extended Highlights: AFC Bournemouth v Leeds United",
             "runtime": "09:45",
             "categories": [
@@ -121,6 +110,17 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "PREMIUM",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9vOGdxY2J6bCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
+            "title": "Full Match Replay: AFC Bournemouth v Leeds United",
+            "runtime": "01:49:46",
+            "categories": [
+                "MATCH ACTION",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "PREMIUM",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9hdzV6cXhseiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
             "title": "Highlights: AFC Bournemouth v Leeds United",
