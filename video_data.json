@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-30T18:13:36.053042",
+    "timestamp": "2026-04-30T20:11:41.348470",
     "videos": [
         {
             "title": "Inside Training: Burnley (H)",
@@ -243,17 +243,6 @@
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9tZDd5a3k2bSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
-            "title": "Full Match Replay: AFC Bournemouth v Leeds United",
-            "runtime": "01:49:46",
-            "categories": [
-                "MATCH ACTION",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "PREMIUM",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9hdzV6cXhseiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
             "title": "Extended Highlights: AFC Bournemouth v Leeds United",
             "runtime": "09:45",
             "categories": [
@@ -263,6 +252,17 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "PREMIUM",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9vOGdxY2J6bCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
+        {
+            "title": "Full Match Replay: AFC Bournemouth v Leeds United",
+            "runtime": "01:49:46",
+            "categories": [
+                "MATCH ACTION",
+                "FIRST TEAM"
+            ],
+            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
+            "entitlement": "PREMIUM",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF9hdzV6cXhseiU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         },
         {
             "title": "Highlights: AFC Bournemouth v Leeds United",
