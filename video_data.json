@@ -1,6 +1,17 @@
 {
-    "timestamp": "2026-05-18T10:15:24.070811",
+    "timestamp": "2026-05-18T14:32:53.031482",
     "videos": [
+        {
+            "title": "Uncut: Brighton & Hove Albion (H)",
+            "runtime": "09:00",
+            "categories": [
+                "FIRST TEAM",
+                "UNCUT"
+            ],
+            "image_url": "https://thumbnails.vod.streamamg.com/eyJ0ZW5hbnRJZCI6IjhlMTE4MjYxLWQ2MjUtMTFlZS04ZmI4LTA2YzllZGMwYjFmOSIsImZpbGVuYW1lIjoiVW5jdXQgVGh1bWIuanBnIiwidmlkZW9JZCI6ImJiODMzMDc0LTNjMmMtNDkxOS1iNDk4LWMzM2ExODJjYTlkNSJ9/width/1000",
+            "entitlement": "",
+            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8ybDQxd2x5eSU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
+        },
         {
             "title": "Bench Cam: Brighton & Hove Albion (H)",
             "runtime": "00:43",
@@ -266,18 +277,6 @@
             "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
             "entitlement": "",
             "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF81cm1nN214MCU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
-        },
-        {
-            "title": "The Official Leeds United Podcast: Dan James",
-            "runtime": "52:21",
-            "categories": [
-                "INTERVIEWS",
-                "FEATURES",
-                "FIRST TEAM"
-            ],
-            "image_url": "https://video.leedsunited.com/_assets/images/placeholder.png",
-            "entitlement": "",
-            "video_url": "https://video.leedsunited.com/video/dm9kJTdDMF8wajRzZmhubyU3QyUyRnBhZ2UlM0ZzbHVnJTNEaG9tZSU3Q2hvbWUlMkZsaXN0JTJGMCUyRmZlZWQ%3D"
         }
     ]
 }
